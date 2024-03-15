@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/beast.jpg",
+        "name": "beast"
+    },
+    {
+        "image": "../assets/butler.jpg",
+        "name": "butler"
+    },
+    {
+        "image": "../assets/construct.jpg",
+        "name": "construct"
+    },
+    {
+        "image": "../assets/dragon.jpg",
+        "name": "dragon"
+    },
+    {
+        "image": "../assets/dropsies.jpg",
+        "name": "dropsies"
+    },
+    {
+        "image": "../assets/girl.jpg",
+        "name": "girl"
+    },
+    {
+        "image": "../assets/jiangshi.jpg",
+        "name": "jiangshi"
+    },
+    {
+        "image": "../assets/mummy.jpg",
+        "name": "mummy"
+    },
+    {
+        "image": "../assets/toon.jpg",
+        "name": "toon"
+    }
+]
